@@ -7,6 +7,7 @@
 using System;
 using System.Collections;
 using NiceJson;
+using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
